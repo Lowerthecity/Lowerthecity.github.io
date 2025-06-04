@@ -3,7 +3,7 @@ body
   background-image: url('https://media.tenor.com/l58v3e97nKwAAAAM/ashton-hall-ashton-hall-rage.gif');
   background-position: center;
   background-size: cover;
-  overflow: hidden;   
+  overflow: hidden;
 }
 
 #all-contents {
@@ -84,7 +84,7 @@ justify-content: space-between;
 margin-bottom: 20px; 
 }
 body {
-  background: #77e;
+  background: ;
   color: #77e;
 }
 
