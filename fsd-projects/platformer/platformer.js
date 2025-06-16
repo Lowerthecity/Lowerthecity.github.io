@@ -26,6 +26,8 @@ $(function () {
     // ONLY CHANGE BELOW THIS POINT //
     //////////////////////////////////
 
+    // BE CAREFUL NEXT TIME //
+
     // TODO 1 - Enable the Grid
     toggleGrid();
 
@@ -42,6 +44,7 @@ createPlatform(420, 300, 50, 10)
 createPlatform(390, 200, 10, 5)
 createPlatform(520, 180, 170, 20)
 createPlatform(750, 250, 180, 20)
+
 
 
  

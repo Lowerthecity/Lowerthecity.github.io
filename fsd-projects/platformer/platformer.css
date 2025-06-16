@@ -3,7 +3,7 @@ body {
 }
 
 canvas {
-  background-color: cyan;
+  background-image: cyan;
   margin: 20px;
 }
 
